@@ -1,0 +1,13 @@
+#div1 { 
+    height: 100vh; 
+    width:100%;
+    background-color: #a14343;
+}
+
+#notaflag {
+   background-color: rgb(23, 218, 23);
+   position: absolute;
+   top: 50%;
+   left: 80%;
+   border-radius: 20%;
+}
